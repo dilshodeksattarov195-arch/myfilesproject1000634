@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productstringify",
+        "uuid": 3800830,
+        "checksum": "9m24y"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
